@@ -26,20 +26,11 @@
 
 # print("Seu imc é {}" .format(imc)) 
 
-# if imc < 17:
-#     print("Você está muito abaixo do peso")
-# if imc >= 17 and imc < 18.5:
-#     print("Você está abaixo do peso")
 # if imc >= 18.5 and imc < 25:
 #     print("Você está no peso ideal")
-# if imc >= 25 and imc < 30:
-#     print("Você está sobrepeso")
-# if imc >= 30 and imc < 35:
-#     print("Você está com obesidade")
-# if imc >= 35 and imc < 40:
-#     print("Você com obesidade severa")
-# if imc >= 40:
-#     print("Você está com obesidade Mórbida")
+# else: 
+#     print("Você não está no seu peso ideal")
+
 
 #----------------------------------------------
 
